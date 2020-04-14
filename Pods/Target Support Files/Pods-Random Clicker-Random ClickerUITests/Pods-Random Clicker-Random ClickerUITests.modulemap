@@ -1,0 +1,6 @@
+framework module Pods_Random_Clicker_Random_ClickerUITests {
+  umbrella header "Pods-Random Clicker-Random ClickerUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

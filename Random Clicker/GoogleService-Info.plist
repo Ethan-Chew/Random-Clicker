@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>917707670375-u53pt7i08vmejerlcvdu69da5bpt166d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.917707670375-u53pt7i08vmejerlcvdu69da5bpt166d</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC7ETGhFyGq2QY3YJGM8IOVTBdnvZTs-nA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>917707670375</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.ethanchew.Random-Clicker</string>
+	<key>PROJECT_ID</key>
+	<string>random-clicker</string>
+	<key>STORAGE_BUCKET</key>
+	<string>random-clicker.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:917707670375:ios:5d1c456908870ea7e525c2</string>
+	<key>DATABASE_URL</key>
+	<string>https://random-clicker.firebaseio.com</string>
+</dict>
+</plist>
